@@ -21,7 +21,7 @@ define('HASH_KEY', '4f6a6d832be79');
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', '12345');
+define('DB_PASS', '');
 define('DB_NAME', 'mvc14');
 define('DB_CHAR', 'utf8');
 
