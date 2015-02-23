@@ -3,7 +3,7 @@
 /*
  * -------------------------------------
  * juan andino
- * framework 
+ * framework trabajo practico programacion3
  * Database.php
  * -------------------------------------
  */
